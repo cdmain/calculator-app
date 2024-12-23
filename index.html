@@ -3,48 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator on ios</title>
+    <title>Calculator</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <div class="page">
-        <div>         
-            <div class="display">0</div>
-        </div>
+    <div class="calc">
+      <section class="screen">0</section>
 
-        <div class="btnRow">
-            <button class="btnClear">C</button>
-            <button>🠠</button>
-            <button>÷</button>
+      <section class="calc-buttons">
+        <div class="calc-button-row">
+          <button class="calc-button double">C</button>
+          <button class="calc-button">←</button>
+          <button class="calc-button">÷</button>
         </div>
-
-        <div class="btnRow">
-            <button class="digit-button">7</button>
-            <button class="digit-button">8</button>
-            <button class="digit-button">9</button>
-            <button>×</button>
+        <div class="calc-button-row">
+          <button class="calc-button">7</button>
+          <button class="calc-button">8</button>
+          <button class="calc-button">9</button>
+          <button class="calc-button">×</button>
         </div>
-
-        <div class="btnRow">
-            <button>4</button>
-            <button>5</button>
-            <button>6</button>
-            <button>-</button>
+        <div class="calc-button-row">
+          <button class="calc-button">4</button>
+          <button class="calc-button">5</button>
+          <button class="calc-button">6</button>
+          <button class="calc-button">-</button>
         </div>
-
-        <div class="btnRow">
-            <button>1</button>
-            <button>2</button>
-            <button>3</button>
-            <button>+</button>
+        <div class="calc-button-row">
+          <button class="calc-button">1</button>
+          <button class="calc-button">2</button>
+          <button class="calc-button">3</button>
+          <button class="calc-button">+</button>
         </div>
-
-        <div class="btnRow">
-            <button class="btnZero">0</button>
-            <button>=</button>
+        <div class="calc-button-row">
+          <button class="calc-button triple">0</button>
+          <button class="calc-button">=</button>
         </div>
+      </section>
+    </div>
+    <script src="javascript/script.js"></script>
+  
 
-        <script src="javascript/script.js"></script>
-    </div> 
 </body>
 </html>
