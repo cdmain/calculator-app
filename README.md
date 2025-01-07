@@ -40,8 +40,8 @@ This repository contains a simple, responsive calculator application built with 
 
 ## Contributing
 
----
-
 Contributions are welcome! If you have suggestions or enhancements, please fork the repository and submit a pull request.
+
+---
 
 Enjoy using this cross-platform interactive calculator application!
