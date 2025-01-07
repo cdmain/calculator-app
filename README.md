@@ -1,4 +1,4 @@
-# Calculator Application
+# Live Cross-Platform Calculator Application
 
 This repository contains a simple, responsive calculator application built with HTML, CSS, and JavaScript. The design is minimalistic and user-friendly, allowing basic arithmetic operations.
 
