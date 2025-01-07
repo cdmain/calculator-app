@@ -9,6 +9,10 @@ This repository contains a simple, responsive calculator application built with 
 - **Keyboard and Button Support**: Use either mouse clicks or keyboard inputs for calculations.
 - **Cross-Platform Compatibility**: Works seamlessly across different devices and browsers.
 
+## Live demo
+
+Click here to live demo: [Calculator](https://cdmain.github.io/calculator-on-ios/)
+
 ## Technologies Used
 
 - **HTML**: Structure of the application.
