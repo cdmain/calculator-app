@@ -11,7 +11,7 @@ This repository contains a simple, responsive calculator application built with 
 
 ## Live demo
 
-Click here to live demo: [Calculator](https://cdmain.github.io/calculator-on-ios/)
+Click here to live demo: [Calculator](https://cdmain.github.io/calculator-app/)
 
 ## Technologies Used
 
