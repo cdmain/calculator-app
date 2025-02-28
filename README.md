@@ -19,18 +19,6 @@ Click here to live demo: [Calculator](https://cdmain.github.io/calculator-app/)
 - **CSS**: Styling and responsive design.
 - **JavaScript**: Functionality and interactivity.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/calculator-app.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd calculator-app
-   ```
-3. Open the `index.html` file in any modern web browser.
-
 ## Usage
 
 - Use the on-screen buttons or your keyboard to input numbers and operations.
